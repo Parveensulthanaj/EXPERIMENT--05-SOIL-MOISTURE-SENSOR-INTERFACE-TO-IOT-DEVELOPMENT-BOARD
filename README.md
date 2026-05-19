@@ -425,8 +425,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots on serial monitor   :
 <img width="899" height="1599" alt="iot5 1" src="https://github.com/user-attachments/assets/c3952d8a-4724-47a0-be08-f2e51b8a6182" />
+<img width="1920" height="1080" alt="iot5 4" src="https://github.com/user-attachments/assets/56688cad-7a24-4cbc-819b-a226659dc4f3" />
 
- <img width="1920" height="1080" alt="iot5 3" src="https://github.com/user-attachments/assets/8153a9e9-c687-4a41-aa99-645e4b58d162" />
 
 
  
